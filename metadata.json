@@ -1,0 +1,6 @@
+
+{
+  "name": "Khan Image Tools",
+  "description": "A professional, high-performance image manipulation suite. Features include client-side format conversion (WebP/PNG/JPG), advanced HSL filtering, background removal, and data visualization tools. Built with a focus on absolute privacy and zero-latency performance.",
+  "requestFramePermissions": []
+}
